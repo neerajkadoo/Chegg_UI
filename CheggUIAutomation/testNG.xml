@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="UITest" verbose="1" preserve-order="true">
+    <test name="Regression">
+        <groups>
+            <run>
+                <exclude name=""  />
+                <include name=""  />
+            </run>
+        </groups>
+
+        <classes>
+            <class name="UITests.LoginTest">
+                <methods>
+                    <include name="loginUser"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+</suite>

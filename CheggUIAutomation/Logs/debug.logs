@@ -1,0 +1,7 @@
+2019-02-16 16:57:17 INFO  LoginTest:29 - Running test setUp
+2019-02-16 16:57:23 INFO  LoginTest:45 - Base URL https://chegg-qa-challenge.herokuapp.com/login
+2019-02-16 16:57:23 INFO  LoginTest:55 - Running test login
+2019-02-16 16:57:24 INFO  LoginTest:59 - Submit button clicked without entering login ID password
+2019-02-16 16:57:24 INFO  LoginTest:63 - Error message for invalid login is displayed
+2019-02-16 16:57:24 INFO  LoginTest:67 - The email or password is invalid.
+2019-02-16 16:57:25 INFO  LoginTest:80 - User is logged in successfully.
